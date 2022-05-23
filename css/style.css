@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: hsl(212, 45%, 89%);
+  text-align: -webkit-center;
+}
+.container {
+  margin-top: 40px;
+  background-color: white;
+  text-align: center;
+  width: 270px;
+  height: 430px;
+  padding-top: 9px;
+  border-radius: 4%;
+  box-shadow: 1px 2px 10px 2px #c1c1c1;
+}
+.image {
+  width: 250px;
+  height: 250px;
+  border-radius: 4%;
+}
+.paragraph {
+  padding: 0 15px;
+}
+.P1 {
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+.P2 {
+  font-family: 'Outfit', sans-serif;
+  font-size: 12px;
+  color: gray;
+}
